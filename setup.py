@@ -5,7 +5,7 @@ setup(
     version='2.1',
     
     description='A diffraction condition calculator for X-ray or neutron diffractometer control.',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     url='https://github.com/swissfel/diffcalc3',
     
     author='Rob Walton',
